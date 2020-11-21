@@ -1,5 +1,5 @@
 # vbachallenge
-WallStreet
+
 
 Sub stock_analysis()
    ' Set dimensions
